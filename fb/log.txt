@@ -1278,3 +1278,10 @@
 [√] Frame: 11226, Episode 10 https://facebook.com/122219057492200694
 [√] Frame: 11227, Episode 10 https://facebook.com/122219057996200694
 [√] Frame: 11228, Episode 10 https://facebook.com/122219059328200694
+[√] Frame: 11229, Episode 10 https://facebook.com/122219085200200694
+[√] Frame: 11230, Episode 10 https://facebook.com/122219085680200694
+[√] Frame: 11231, Episode 10 https://facebook.com/122219086070200694
+[√] Frame: 11232, Episode 10 https://facebook.com/122219086502200694
+[√] Frame: 11233, Episode 10 https://facebook.com/122219087072200694
+[√] Frame: 11234, Episode 10 https://facebook.com/122219087606200694
+[√] Frame: 11235, Episode 10 https://facebook.com/122219088068200694
